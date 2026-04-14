@@ -7,5 +7,5 @@
 **1ASI0657-2610-17949 - Fundamentos de Arquitectura de Software**
 
 **Profesor:** Jorge Luis Delgado Vite  
-**Sección:** 17949 
-**Producto:** 
+**Sección:** **17949**
+
